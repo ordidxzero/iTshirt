@@ -2,3 +2,4 @@
 
 1. Upload T-shirt
 2. Buy T-shirt
+3. Render Detail Page
