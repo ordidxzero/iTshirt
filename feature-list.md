@@ -2,4 +2,5 @@
 
 1. Upload T-shirt
 2. Buy T-shirt
-3. Render Detail Page
+3. Add to cart
+4. Render Detail Page
